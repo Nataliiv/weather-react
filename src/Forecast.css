@@ -1,0 +1,22 @@
+.temperature {
+  position: relative;
+  top: 20px;
+  font-size: 64px;
+  line-height: 1;
+  color: #043074;
+}
+
+.units {
+  position: relative;
+  top: -15px;
+  font-size: 16px;
+}
+
+ul {
+  padding-top: 10px;
+}
+
+li {
+  font-size: 19px;
+  list-style: none;
+}
