@@ -58,7 +58,7 @@ export default function Weather() {
         </form>
         <div className="overview">
           <h1>{city}</h1>
-          <h5 className="text-muted">Last updated: </h5>
+          <h5 className="text-muted">Monday 10:03</h5>
         </div>
         <Forecast data={weather} />
       </div>
