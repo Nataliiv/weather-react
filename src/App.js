@@ -9,6 +9,12 @@ function App() {
       <header className="App-header">
         <Weather />
       </header>
+      <small>
+        <a href="https://github.com/Nataliiv/weather-react" target="_blank">
+          Open-source code
+        </a>
+        , by Nataliia Ivanchak
+      </small>
     </div>
   );
 }
